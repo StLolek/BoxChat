@@ -44,3 +44,5 @@
 
 - Do napisania wiadomości będzie można użyć swojego głosu
 - Możliwość włączenia czytania każdej otrzymanej wiadomości (tylko na czacie prywatnym/na czacie do o kreślonej[bardzo małej] ilości osób)
+
+##### (?) - jest to opcjonalne/niepewne czy będziemy wiedzieć jak to zrobić
