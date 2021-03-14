@@ -38,6 +38,8 @@
 
 #### Dodanie preferencji wyszukiwania do czatu z przypadkowymi osobami
 
+#### Dodanie listy znajomych
+
 ### Sprint 4
 
 #### Dodanie do czatu obsługi speech to text oraz text to speech
