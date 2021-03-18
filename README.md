@@ -1,5 +1,7 @@
 # BOXCHAT
 
+Cały czat będzie startowany lokalnie z wykorzystaniem kontenerów docker/docker-compose.
+
 ## Plan:
 
 ### Sprint 1
