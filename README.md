@@ -16,13 +16,13 @@ Cały czat będzie startowany lokalnie z wykorzystaniem kontenerów docker/docke
 
 #### Logowanie/Konta
 
-[ ] Z czatu będzie można korzystać przy pomocy prostego konta (przypisany nick do którego można dostać się tylko przy pomocy hasła, z możliwością odzyskania hasła jeśli podasz mail), bądź logować się "jednorazowo" poprzez wpisanie nicku oraz przepisanie kodu captcha (dla zabezpieczenia przed botami). Drugi sposób jest "gorszy" pod tym względem, że Twój nick będzie dostępny dla każdego.
+- [ ] Z czatu będzie można korzystać przy pomocy prostego konta (przypisany nick do którego można dostać się tylko przy pomocy hasła, z możliwością odzyskania hasła jeśli podasz mail), bądź logować się "jednorazowo" poprzez wpisanie nicku oraz przepisanie kodu captcha (dla zabezpieczenia przed botami). Drugi sposób jest "gorszy" pod tym względem, że Twój nick będzie dostępny dla każdego.
 
-[ ] Stworzenie mailera do odzyskiwania hasła.
+- [ ] Stworzenie mailera do odzyskiwania hasła.
 
-[ ] Zrobienie Captchy przy wchodzeniu przez "gościa"
+- [ ] Zrobienie Captchy przy wchodzeniu przez "gościa"
 
-[ ] Dane do logowania będą trzymane w bazie MySQL
+- [ ] Dane do logowania będą trzymane w bazie MySQL
 
 ### Sprint 2
 
