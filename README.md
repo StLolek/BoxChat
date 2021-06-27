@@ -8,11 +8,11 @@ Cały czat będzie startowany lokalnie z wykorzystaniem kontenerów docker/docke
 
 #### Stworzenie czatu:
 
-[x] Stworzony w środowisku Node.JS
+- [x] Stworzony w środowisku Node.JS
 
-[x] Utworzenie kontenerów w docker/docker-compose
+- [x] Utworzenie kontenerów w docker/docker-compose
 
-[x] W tej fazie będzie najprostszą wersją naszego czatu z podziałem na podkanały
+- [x] W tej fazie będzie najprostszą wersją naszego czatu z podziałem na podkanały
 
 #### Logowanie/Konta
 
